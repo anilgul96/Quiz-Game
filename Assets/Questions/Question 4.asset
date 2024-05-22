@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32ef3e69ce737b54386590df532a1036, type: 3}
+  m_Name: Question 4
+  m_EditorClassIdentifier: 
+  question: 'Kenshinin kilic teknigi hangisidir?
+
+'
+  answers:
+  - "Sh\u0131den"
+  - "H\u0131ten M\u0131tsurug\u0131"
+  - "Sukuch\u0131"
+  - Hirazuki
+  correctAnswer: 1
